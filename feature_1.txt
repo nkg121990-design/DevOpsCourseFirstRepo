@@ -1,0 +1,1 @@
+This is the file where I change some for git commit --amend
